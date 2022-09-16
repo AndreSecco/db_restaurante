@@ -90,6 +90,30 @@
       ],
       "status": "Aguardando",
       "id": 1
+    },
+    {
+      "nome": "Mikael Kauan",
+      "pao": "Parmesão e Orégano",
+      "carne": "Picanha",
+      "adicionais": [
+        "Salame",
+        "Cheddar",
+        "Cebola roxa"
+      ],
+      "status": "Aguardando",
+      "id": 2
+    },
+    {
+      "nome": "Figueiró Secco",
+      "pao": "3 Queijos",
+      "carne": "Picanha",
+      "adicionais": [
+        "Cheddar",
+        "Cebola roxa",
+        "Salame"
+      ],
+      "status": "Aguardando",
+      "id": 3
     }
   ],
   "relatorio-burgers": [
